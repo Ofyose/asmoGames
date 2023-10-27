@@ -1,1 +1,0 @@
-export { BoutonCatalogue } from "./BoutonCatalogue";

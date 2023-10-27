@@ -1,1 +1,0 @@
-export { BoutonAllerDroite } from "./BoutonAllerDroite";
