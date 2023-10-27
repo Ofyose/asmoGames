@@ -1,0 +1,1 @@
+export { BoutonCEstParti } from "./BoutonCEstParti";

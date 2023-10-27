@@ -1,0 +1,27 @@
+.bouton-catalogue {
+  align-items: center;
+  background: linear-gradient(180deg, rgb(54, 184, 234) 0%, rgb(21.25, 114.75, 255) 100%);
+  border-radius: 50px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 16px 64px;
+  position: relative;
+}
+
+.bouton-catalogue .catalogue {
+  color: #ffffff;
+  font-family: "Reem Kufi", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-shadow: 2px 2px 2px #00000040;
+  width: fit-content;
+}
+
+.bouton-catalogue.hover {
+  box-shadow: 2px 4px 4px #00000040;
+}

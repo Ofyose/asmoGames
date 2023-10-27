@@ -1,0 +1,1 @@
+export { BoutonActualitS } from "./BoutonActualitS";

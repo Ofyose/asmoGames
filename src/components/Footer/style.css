@@ -1,0 +1,175 @@
+.footer {
+  background-color: #f6fbff;
+  box-shadow: 0px -1px 2px #00000040;
+  height: 262px;
+  position: relative;
+  width: 1440px;
+}
+
+.footer .line {
+  height: 191px;
+  left: 376px;
+  position: absolute;
+  top: 32px;
+  width: 2px;
+}
+
+.footer .overlap-group {
+  height: 191px;
+  left: 408px;
+  position: absolute;
+  top: 32px;
+  width: 565px;
+}
+
+.footer .img {
+  height: 191px;
+  left: 378px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.footer .menu {
+  height: 113px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 565px;
+}
+
+.footer .text-wrapper {
+  color: #2f2f2f;
+  font-family: "Reem Kufi", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 410px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 31px;
+}
+
+.footer .remboursements {
+  color: #2f2f2f;
+  font-family: "Reem Kufi", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 410px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 23px;
+  width: 140px;
+}
+
+.footer .div {
+  color: #2f2f2f;
+  font-family: "Reem Kufi", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 410px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 46px;
+  width: 68px;
+}
+
+.footer .a-propos {
+  color: #2f2f2f;
+  font-family: "Reem Kufi", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 23px;
+  width: 70px;
+}
+
+.footer .actualit-s {
+  color: #2f2f2f;
+  font-family: "Reem Kufi", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 86px;
+}
+
+.footer .faq {
+  color: #2f2f2f;
+  font-family: "Reem Kufi", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 46px;
+  width: 30px;
+}
+
+.footer .mes-cr-ations {
+  color: #2f2f2f;
+  font-family: "Reem Kufi", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 69px;
+}
+
+.footer .configurateur {
+  color: #2f2f2f;
+  font-family: "Reem Kufi", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 92px;
+  width: 123px;
+}
+
+.footer .icon-twitter {
+  height: 72px;
+  left: 258px;
+  position: absolute;
+  top: 154px;
+  width: 86px;
+}
+
+.footer .icon-facebook {
+  height: 76px;
+  left: 29px;
+  position: absolute;
+  top: 154px;
+  width: 76px;
+}
+
+.footer .icon-instagram {
+  height: 76px;
+  left: 144px;
+  position: absolute;
+  top: 154px;
+  width: 76px;
+}
+
+.footer .logo {
+  height: 97px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 32px;
+  width: 311px;
+}

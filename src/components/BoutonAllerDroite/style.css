@@ -1,0 +1,19 @@
+.bouton-aller-droite {
+  background: linear-gradient(180deg, rgb(54, 184, 234) 0%, rgb(21.25, 114.75, 255) 100%);
+  border-radius: 34px;
+  height: 68px;
+  position: relative;
+  width: 68px;
+}
+
+.bouton-aller-droite .polygon-2 {
+  height: 34px;
+  left: 24px;
+  position: absolute;
+  top: 17px;
+  width: 28px;
+}
+
+.bouton-aller-droite.property-1-0-hover {
+  box-shadow: -2px 4px 4px #00000040;
+}

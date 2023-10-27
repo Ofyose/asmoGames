@@ -1,0 +1,1 @@
+export { BoutonAllerGauche } from "./BoutonAllerGauche";

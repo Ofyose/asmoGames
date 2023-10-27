@@ -1,0 +1,1 @@
+export { BoutonPages } from "./BoutonPages";
