@@ -1,0 +1,80 @@
+.bouton-pages {
+  height: 15px;
+  position: relative;
+  width: 84px;
+}
+
+.bouton-pages .droite {
+  position: absolute;
+}
+
+.bouton-pages .milieu {
+  position: absolute;
+}
+
+.bouton-pages .gauche {
+  position: absolute;
+}
+
+.bouton-pages .milieu-bleu {
+  height: 14px;
+  left: 69px;
+  top: 0;
+  width: 14px;
+}
+
+.bouton-pages .droite-bleu {
+  height: 19px;
+  left: 68px;
+  top: -2px;
+  width: 18px;
+}
+
+.bouton-pages .gauche-bleu {
+  height: 14px;
+  left: 70px;
+  top: 0;
+  width: 14px;
+}
+
+.bouton-pages .property-1-milieu-bleu {
+  height: 19px;
+  left: 33px;
+  top: -2px;
+  width: 18px;
+}
+
+.bouton-pages .property-1-droite-bleu {
+  height: 14px;
+  left: 35px;
+  top: 0;
+  width: 14px;
+}
+
+.bouton-pages .property-1-gauche-bleu {
+  height: 14px;
+  left: 35px;
+  top: 0;
+  width: 14px;
+}
+
+.bouton-pages .property-1-0-milieu-bleu {
+  height: 14px;
+  left: -1px;
+  top: 0;
+  width: 14px;
+}
+
+.bouton-pages .property-1-0-droite-bleu {
+  height: 14px;
+  left: -3px;
+  top: 0;
+  width: 14px;
+}
+
+.bouton-pages .property-1-0-gauche-bleu {
+  height: 19px;
+  left: -3px;
+  top: -2px;
+  width: 18px;
+}
